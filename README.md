@@ -1,5 +1,4 @@
 # ames-housing-price-analysis-r
-Exploratory data analysis and regression modeling of residential housing prices using R and the Ames Housing Dataset.
 
 ## Overview
 
@@ -110,21 +109,6 @@ The analysis was performed in **R** using packages including:
 * `readr`
 * `knitr`
 * `kableExtra`
-
-## Project Files
-
-```text
-├── housing.csv
-├── analysis.R
-├── final_report.pdf
-├── appendix.pdf
-└── README.md
-```
-
-* **`housing.csv`** — dataset used for the analysis
-* **`analysis.R`** — R code for data preparation, EDA, visualization, correlation analysis, and regression modeling
-* **`final_report.pdf`** — full analytical report
-* **`appendix.pdf`** — supporting tables and exploratory visualizations
 
 ## Skills Demonstrated
 

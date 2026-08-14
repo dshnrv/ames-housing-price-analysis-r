@@ -1,5 +1,3 @@
-# ames-housing-price-analysis-r
-
 ## Overview
 
 This project analyzes the relationship between housing characteristics and residential sale prices using the **Ames Housing Dataset**.
